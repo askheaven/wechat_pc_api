@@ -66,4 +66,4 @@ dll文件有三个，分别是WeChatHelper_xxxx.dll、WxLoader_x86.dll和WxLoade
 	函数原型：
 	`DWORD InjectWeChatMultiOpen(IN LPCSTR szDllPath, IN LPCSTR szWeChatExePath);`·
 	
-    
+	
